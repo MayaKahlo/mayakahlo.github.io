@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts.
 
 profile:
-  align: middle
-  image: japan.JPG
+  align: right
+  image: DeLosSantos_Maya.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Northeastern University</p>
