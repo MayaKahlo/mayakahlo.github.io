@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts.
+subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>.
 
 profile:
   align: right
