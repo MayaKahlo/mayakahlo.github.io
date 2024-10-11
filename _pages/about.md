@@ -11,6 +11,8 @@ profile:
   more_info: >
     <p>Northeastern University</p>
     <p>Boston, MA</p>
+    <p> </p>
+    <p>delossantos [dot] m [at] northeastern [dot] edu</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -21,8 +23,6 @@ Hi! My name is Maya De Los Santos and I am a senior majoring in Electrical and C
 
 My goal is to earn a Ph.D. in Computer Science, with a focus on Human-Computer Interaction and Design. I am deeply committed to empowering marginalized communities to have agency over their privacy/personal data and, in turn, promote their well-being. This commitment has been the driving force behind my undergraduate research pursuits.
 I am particularly interested in exploring how we can use design and a mixture of mediums to combat digital resignation – the phenomenon where people care about their personal data but feel powerless in exercising control over it — and the urgent need to focus on the experiences of marginalized communities, who are disproportionately affected by privacy violations.
-
-delossantos [dot] m [at] northeastern [dot] edu
 
 <!--
 I have experience working as a research assistant in the Civic AI Lab led by [Dr. Saiph Savage](https://www.saiph.org/) and the
