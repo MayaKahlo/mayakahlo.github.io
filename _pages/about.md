@@ -1,11 +1,11 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>.
 
 profile:
-  align: right
+  align: center
   image: DeLosSantos_Maya.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Maya De Los Santos and I am a senior majoring in Electrical and Computer Engineering in Northeastern University's Honors Program. Throughout my undergraduate studies I have remained dedicated to uplifting marginalized communities and empowering them to have agency over their personal data and promote their well-being.
+Hi! My name is Maya De Los Santos and I am a senior pursuing Electrical and Computer Engineering in Northeastern University's Honors Program. Throughout my undergraduate studies I have remained dedicated to uplifting marginalized communities and empowering them to have agency over their personal data and promote their well-being.
 
 My goal is to earn a Ph.D. in Computer Science, with a focus on Human-Computer Interaction and Design. I am particularly interested in exploring how meaningful design can combat digital resignation – the phenomenon where people care about their personal data but feel powerless in exercising control over it.
 
