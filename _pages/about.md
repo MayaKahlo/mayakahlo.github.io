@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>.
+subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>. delossantos [dot] m [at] northeastern [dot] edu
 
 profile:
   align: right
@@ -11,8 +11,6 @@ profile:
   more_info: >
     <p>Northeastern University</p>
     <p>Boston, MA</p>
-    <p> </p>
-    <p>delossantos [dot] m [at] northeastern [dot] edu</p>
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
