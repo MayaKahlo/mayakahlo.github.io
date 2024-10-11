@@ -12,6 +12,7 @@ profile:
     <p>Northeastern University</p>
     <p>Boston, MA</p>
 
+cv_pdf: MayaDLS_CV.pdf
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
