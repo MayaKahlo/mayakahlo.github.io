@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title:
 permalink: /
 subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>.
 
