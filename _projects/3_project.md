@@ -1,11 +1,11 @@
 ---
 layout: page
 title: The TikTok Tradeoff
-description: 
+description:
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://dl.acm.org/doi/10.1145/3490632.3497864
 importance: 3
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.

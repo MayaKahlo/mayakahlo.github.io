@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Soluna
-description: a project with a background image
+description: Senior Capstone Project
 img: assets/img/1.jpg
 importance: 1
 category: fun

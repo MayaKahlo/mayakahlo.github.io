@@ -3,8 +3,9 @@ layout: page
 title: La Independiente
 description:
 img: assets/img/3.jpg
+redirect: https://dl.acm.org/doi/10.1145/3594739.3610728
 importance: 2
-category: work
+category: research
 giscus_comments: false
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: page
 title: GigSousveillance
-description: 
+description:
 img: assets/img/12.jpg
+redirect: https://dl.acm.org/doi/10.1145/3613904.3642614
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
 

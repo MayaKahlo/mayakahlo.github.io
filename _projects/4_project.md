@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Embroidery
+title: Embroidery
 description: Pictures of my embroidery projects
 img: /assets/img/12.jpg
 importance: 2
