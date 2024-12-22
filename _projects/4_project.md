@@ -1,11 +1,13 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: My Embroidery
+description: Pictures of my embroidery projects
+img: /assets/img/12.jpg
 importance: 3
 category: fun
 ---
+
+In my free time I enjoy embroidering artwork for my friends and family. Below are some pictures of my recent work!
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
