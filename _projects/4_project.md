@@ -3,7 +3,7 @@ layout: page
 title: My Embroidery
 description: Pictures of my embroidery projects
 img: /assets/img/12.jpg
-importance: 3
+importance: 2
 category: fun
 ---
 

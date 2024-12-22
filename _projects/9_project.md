@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+title: Ægir’s Reign
+description: First-Year Cornerstone II Project
+img: aegirs_reign.png
 importance: 4
 category: fun
 ---
