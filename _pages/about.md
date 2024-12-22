@@ -7,7 +7,7 @@ subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a hre
 profile:
   align: center
   image: DeLosSantos_Maya.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Northeastern University</p>
     <p>Boston, MA</p>
