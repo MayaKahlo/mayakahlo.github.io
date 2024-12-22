@@ -2,12 +2,12 @@
 layout: about
 title:
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>.
+subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>. <a href='https://drive.google.com/file/d/1y1SOKQiU4u5Q88FyOcxqUe8lyzWkCncA/view?usp=sharing'>CV</a>.
 
 profile:
   align: center
   image: DeLosSantos_Maya.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Northeastern University</p>
     <p>Boston, MA</p>
