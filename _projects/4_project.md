@@ -36,7 +36,7 @@ I designed and embroidered this small tote for my friend based on a Juneteenth C
 
 <hr class="dashed">
 
-After watching the show [Fleabag](https://www.imdb.com/title/tt5687612/) by Phoebe Waller-Bridge (highly recommend!!) I wanted to stay in the world a little longer and found this artwork by artist [Débora Cabral] (https://deboracabral.tumblr.com/post/189136835638/fleabag-changed-me) I really enjoyed:
+After watching the show [Fleabag](https://www.imdb.com/title/tt5687612/) by Phoebe Waller-Bridge (highly recommend!!) I wanted to stay in the world a little longer and found this artwork by artist [Débora Cabral](https://deboracabral.tumblr.com/post/189136835638/fleabag-changed-me) I really enjoyed:
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-2 mt-3 mt-md-0">
@@ -64,3 +64,5 @@ I really enjoyed watching Demon Slayer and decided to embroider one of my t-shir
 </div>
 
 <hr class="dashed">
+
+Last but not least, my first embroidery project based on this [cross stitch design](https://www.reddit.com/r/CrossStitch/comments/jb25at/fo_i_stitched_this_princess_mononoke_piece_for_my/):
