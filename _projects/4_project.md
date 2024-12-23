@@ -13,7 +13,7 @@ In my free time I enjoy embroidering artwork for my friends and family. Below ar
 
 My most recent piece is a recreation of [Terapia de Hilos'](https://x.com/terapiadehilos/) work which illustrates the main characters from the animated movie <i>Your Name</i>. I made this piece for my friend who introduced me to the movie for their birthday:
 <div class="row justify-content-sm-start">
-    <div class="col-sm mt-10 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/your_name.jpg" title="Your Name Piece" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -33,38 +33,34 @@ I designed and embroidered this small tote for my friend based on a Juneteenth v
 
 <hr class="dashed">
 
-After watching the show Fleabag by
+After watching the show [Fleabag](https://www.imdb.com/title/tt5687612/) by Phoebe Waller-Bridge (highly recommend!!) I wanted to stay in the world a little longer and found this artwork by artist [Débora Cabral] (https://deboracabral.tumblr.com/post/189136835638/fleabag-changed-me) I really enjoyed:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fox1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/fox2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fox3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fox4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 
 <hr class="dashed">
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+I really enjoyed watching Demon Slayer and decided to embroider one of my t-shirts with the chibi versions of the main characters:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-start">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/demon_slayer1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/fox2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-```
 
-{% endraw %}
+<hr class="dashed">
