@@ -14,6 +14,9 @@ In my free time I enjoy embroidering artwork for my friends and family. Below ar
 My most recent piece is a recreation of [Terapia de Hilos'](https://x.com/terapiadehilos/) work which illustrates the main characters from the animated movie <i>Your Name</i>. I made this piece for my friend who introduced me to the movie for their birthday:
 <div class="row justify-content-sm-start">
     <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/yourname_poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/your_name.jpg" title="Your Name Piece" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
