@@ -2,7 +2,7 @@
 layout: page
 title: Embroidery
 description: Pictures of my embroidery projects
-img: /assets/img/12.jpg
+img: assets/img/unfinished_abr.jpg
 importance: 2
 category: fun
 ---

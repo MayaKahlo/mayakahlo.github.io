@@ -2,7 +2,7 @@
 layout: page
 title: The TikTok Tradeoff
 description:
-img: assets/img/7.jpg
+img: assets/img/publication_preview/tiktok_figure.png
 redirect: https://dl.acm.org/doi/10.1145/3490632.3497864
 importance: 3
 category: research
