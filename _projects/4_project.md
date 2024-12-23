@@ -13,17 +13,17 @@ In my free time I enjoy embroidering artwork for my friends and family. Below ar
 
 My most recent piece is a recreation of [Terapia de Hilos'](https://x.com/terapiadehilos/) work which illustrates the main characters from the animated movie <i>Your Name</i>. I made this piece for my friend who introduced me to the movie for their birthday:
 <div class="row justify-content-sm-start">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/yourname_poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/your_name.jpg" title="Your Name Piece" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <hr class="dashed">
 
-I designed and embroidered this small tote for my friend based on a Juneteenth video we were both included in. You can watch it [here](https://www.instagram.com/tv/CgCP60lD5ke/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D)!:
+I designed and embroidered this small tote for my friend based on a Juneteenth Celebration video for which we were both interviewed:
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-5 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/finished_abr.JPG" title="abeautifulresistance" class="img-fluid rounded z-depth-1" %}
@@ -39,16 +39,16 @@ I designed and embroidered this small tote for my friend based on a Juneteenth v
 After watching the show [Fleabag](https://www.imdb.com/title/tt5687612/) by Phoebe Waller-Bridge (highly recommend!!) I wanted to stay in the world a little longer and found this artwork by artist [Débora Cabral] (https://deboracabral.tumblr.com/post/189136835638/fleabag-changed-me) I really enjoyed:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fox1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fox2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fox3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-2 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fox4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -58,11 +58,8 @@ After watching the show [Fleabag](https://www.imdb.com/title/tt5687612/) by Phoe
 I really enjoyed watching Demon Slayer and decided to embroider one of my t-shirts with the chibi versions of the main characters:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/demon_slayer1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/fox2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
