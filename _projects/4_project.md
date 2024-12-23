@@ -9,12 +9,16 @@ category: fun
 
 In my free time I enjoy embroidering artwork for my friends and family. Below are some pictures of my recent work!
 
+<hr class="dashed">
+
 My most recent piece is a recreation of [Terapia de Hilos'](https://x.com/terapiadehilos/) work which illustrates the main characters from the animated movie <i>Your Name</i>. I made this piece for my friend who introduced me to the movie for their birthday:
 <div class="row justify-content-sm-start">
     <div class="col-sm mt-10 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/your_name.jpg" title="Your Name Piece" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<hr class="dashed">
 
 I designed and embroidered this small tote for my friend based on a Juneteenth video we were both included in. You can watch it [here](https://www.instagram.com/tv/CgCP60lD5ke/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D)!:
 <div class="row justify-content-sm-center">
@@ -26,13 +30,10 @@ I designed and embroidered this small tote for my friend based on a Juneteenth v
       <script async src="//www.instagram.com/embed.js"></script>
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<hr class="dashed">
+
+After watching the show Fleabag by
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
@@ -45,6 +46,8 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
+
+<hr class="dashed">
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
