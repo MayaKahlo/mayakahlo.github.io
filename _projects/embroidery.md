@@ -39,13 +39,13 @@ I designed and embroidered this small tote for my friend based on a Juneteenth C
 After watching the show [Fleabag](https://www.imdb.com/title/tt5687612/) by Phoebe Waller-Bridge (highly recommend!!) I wanted to stay in the world a little longer and found this artwork by artist [Débora Cabral](https://deboracabral.tumblr.com/post/189136835638/fleabag-changed-me) I really enjoyed:
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fox1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fox3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/fox4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
