@@ -22,29 +22,14 @@ Our project, “Soluna,” is a smart alarm clock designed to address all the co
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sun_on.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/both_soluna.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Photo of final Soluna product.
 </div>
 
 To facilitate wireless communication between the alarm clock and docking station we programmed two ESP32-S3 microcontrollers to use Wi-Fi/HTTP to routinely send updates to check when to initiate morning and nighttime mode features according to the alarm time set by the user. The ESP32-S3’s ability to handle multiple input and output tasks simultaneously makes it ideal for managing the various subassemblies on both main assemblies. The completion of this project totaled roughly $484.06, staying well within our allotted budget of $700. We were able to stick to the originally proposed schedule up until the final week, in which we had to overcome challenges regarding the PCBs and 3D-printing availability. With Soluna, our team hopes to help users enjoy a more relaxed and energized start to their day, free from the pitfalls of traditional alarm clocks.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
 Here is a demo of our project:
 <div style="display: flex; justify-content: center;">
