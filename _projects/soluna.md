@@ -2,7 +2,7 @@
 layout: page
 title: Soluna
 description: Senior Capstone Project
-img: assets/img/1.jpg
+img: assets/img/sunmoon.png
 importance: 1
 category: fun
 ---
@@ -11,13 +11,10 @@ Researchers have found that our internal clock, or circadian rhythm, naturally r
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/soluna_concept.png" title="soluna concept" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/soluna_concept_side.png" title="soluna concept side" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -25,7 +22,10 @@ Our project, “Soluna,” is a smart alarm clock designed to address all the co
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sun_on.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/both_soluna.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -48,5 +48,5 @@ To facilitate wireless communication between the alarm clock and docking station
 
 Here is a demo of our project:
 <div style="display: flex; justify-content: center;">
-   <iframe src="https://drive.google.com/file/d/12TOcmPRRdOB98h9GDSzLtB5e6Etb27-I/preview" width="1000" height="600" allow="autoplay"></iframe>
+   <iframe src="https://drive.google.com/file/d/12TOcmPRRdOB98h9GDSzLtB5e6Etb27-I/preview" width="1000" height="480" allow="autoplay"></iframe>
 </div>
