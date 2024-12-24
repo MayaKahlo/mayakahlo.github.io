@@ -47,4 +47,6 @@ To facilitate wireless communication between the alarm clock and docking station
 </div>
 
 Here is a demo of our project:
-<iframe src="https://drive.google.com/file/d/12TOcmPRRdOB98h9GDSzLtB5e6Etb27-I/preview" width="800" height="480" allow="autoplay"></iframe>
+<div style="display: flex; justify-content: center;">
+   <iframe src="https://drive.google.com/file/d/12TOcmPRRdOB98h9GDSzLtB5e6Etb27-I/preview" width="1000" height="600" allow="autoplay"></iframe>
+</div>
