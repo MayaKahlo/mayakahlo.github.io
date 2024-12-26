@@ -1,5 +1,5 @@
 ---
-layout: About
+layout: about
 title:
 permalink: /
 subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a href='https://scholar.google.com/citations?user=mbdgnU0AAAAJ&hl=en'>Google Scholar</a>. <a href='https://drive.google.com/file/d/1y1SOKQiU4u5Q88FyOcxqUe8lyzWkCncA/view?usp=sharing'>CV</a>.
@@ -23,8 +23,6 @@ Hi! My name is Maya De Los Santos and I am a senior pursuing Electrical and Comp
 My goal is to earn a Ph.D. in Computer Science, with a focus on Human-Computer Interaction and Design. I am particularly interested in exploring how meaningful design can combat digital resignation – the phenomenon where people care about their personal data but feel powerless in exercising control over it.
 
 delossantos [dot] m [at] northeastern [dot] edu
-
-<button href="https://mayakahlo.github.io/projects/" type="button" class="btn btn-outline-primary">Projects</button>
 
 <!--
 There is an urgent need to focus on the experiences of marginalized communities, who are disproportionately affected by privacy violations.
