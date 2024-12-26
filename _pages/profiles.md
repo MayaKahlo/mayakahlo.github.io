@@ -1,5 +1,5 @@
 ---
-layout: Profiles
+layout: profiles
 permalink: /about_maya/
 title: About
 description:

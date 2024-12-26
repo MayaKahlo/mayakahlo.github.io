@@ -24,6 +24,15 @@ My goal is to earn a Ph.D. in Computer Science, with a focus on Human-Computer I
 
 delossantos [dot] m [at] northeastern [dot] edu
 
+<div class="button">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/soluna_concept.png" title="soluna concept" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/soluna_concept_side.png" title="soluna concept side" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <!--
 There is an urgent need to focus on the experiences of marginalized communities, who are disproportionately affected by privacy violations.
 
