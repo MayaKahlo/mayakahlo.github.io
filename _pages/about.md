@@ -42,18 +42,19 @@ delossantos [dot] m [at] northeastern [dot] edu
   .button1 {
   background-color: white;
   color: black;
-  border: 2px solid #04AA6D;
+  border: 2px solid #B508AB;
+  border-radius: 8px;
   }
 
   .button1:hover {
-  background-color: #04AA6D;
+  background-color: #B508AB;
   color: white;
   }
 }
 </style>
 
 <div class="myDiv">
-  <a href="https://mayakahlo.github.io/projects/" class="button button1"> Check out my projects here</a>
+  <a href="https://mayakahlo.github.io/projects/" class="button button1"> Check out my projects here</a><br /><br />
 </div>
 
 <!--
