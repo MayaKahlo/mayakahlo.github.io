@@ -4,7 +4,7 @@ title: Embroidery
 description: Pictures of my embroidery projects
 img: assets/img/unfinished_abr.jpg
 importance: 2
-category: fun
+category: Fun
 ---
 
 In my free time I enjoy embroidering artwork for my friends and family. Below are some pictures of my recent work!

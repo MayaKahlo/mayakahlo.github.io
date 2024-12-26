@@ -4,7 +4,7 @@ title: Soluna
 description: Senior Capstone Project
 img: assets/img/sunmoon.png
 importance: 1
-category: class
+category: Class
 ---
 
 Researchers have found that our internal clock, or circadian rhythm, naturally regulates sleep and wake times, but modern life often disrupts these cues with electronic devices, busy schedules, blue light, and noise1. An alarm clock can help reestablish or adjust our internal clocks, ensuring we wake up on time and feel less groggy in the morning. Moreover, having a separate device for an alarm clock limits phone use before bed and first thing in the morning, offering protection from additional disruptions to our sleep cycle. Unfortunately, current alarm clocks on the market either use jarring wakeup methods or focus solely on aesthetics, often failing to get users out of bed.

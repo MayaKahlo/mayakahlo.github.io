@@ -5,7 +5,7 @@ description:
 img: assets/img/publication_preview/laindependiente.png
 redirect: https://dl.acm.org/doi/10.1145/3594739.3610728
 importance: 2
-category: research
+category: Research
 giscus_comments: false
 ---
 
