@@ -24,6 +24,8 @@ My goal is to earn a Ph.D. in Computer Science, with a focus on Human-Computer I
 
 delossantos [dot] m [at] northeastern [dot] edu
 
+<button href="https://mayakahlo.github.io/projects/" type="button" class="btn btn-outline-primary">Projects</button>
+
 <!--
 There is an urgent need to focus on the experiences of marginalized communities, who are disproportionately affected by privacy violations.
 
