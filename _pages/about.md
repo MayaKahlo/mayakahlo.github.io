@@ -15,7 +15,7 @@ profile:
 cv_pdf: MayaDLS_CV.pdf
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi! My name is Maya De Los Santos and I am a senior pursuing Electrical and Computer Engineering in Northeastern University's Honors Program. Throughout my undergraduate studies I have remained dedicated to uplifting marginalized communities and empowering them to have agency over their personal data and promote their well-being.
@@ -24,13 +24,36 @@ My goal is to earn a Ph.D. in Computer Science, with a focus on Human-Computer I
 
 delossantos [dot] m [at] northeastern [dot] edu
 
-<div class="button">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/soluna_concept.png" title="soluna concept" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/soluna_concept_side.png" title="soluna concept side" class="img-fluid rounded z-depth-1" %}
-    </div>
+<style>
+.myDiv {
+  .button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+
+  .button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #04AA6D;
+  }
+
+  .button1:hover {
+  background-color: #04AA6D;
+  color: white;
+  }
+}
+</style>
+
+<div class="myDiv">
+  <a href="https://mayakahlo.github.io/projects/" class="button button1"> Check out my projects here</a>
 </div>
 
 <!--
