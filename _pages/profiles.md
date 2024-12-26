@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /about_maya/
-title: About
+title: About Me
 description:
 nav: true
 nav_order: 1
