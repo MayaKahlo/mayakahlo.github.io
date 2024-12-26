@@ -17,29 +17,6 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-.button {
-  border: none;
-  color: white;
-  padding: 16px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  transition-duration: 0.4s;
-  cursor: pointer;
-}
-
-.button1 {
-  background-color: white;
-  color: black;
-  border: 2px solid #04AA6D;
-}
-
-.button1:hover {
-  background-color: #04AA6D;
-  color: white;
-}
 
 Hi! My name is Maya De Los Santos and I am a senior pursuing Electrical and Computer Engineering in Northeastern University's Honors Program. Throughout my undergraduate studies I have remained dedicated to uplifting marginalized communities and empowering them to have agency over their personal data and promote their well-being.
 
