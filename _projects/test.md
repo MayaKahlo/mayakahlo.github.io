@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Test Project
-description: test project
-img: /assets/img/fox1.jpg
-importance: 4
+title: How Humans Judge Machines: Neuralink's Long-Term Vision
+description: How Humans Judge Machines Course - Final Project
+img: /assets/img/target_hhjm.jpg
+importance: 2
 category: Class
 ---
-
-Coming soon!
