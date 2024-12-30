@@ -9,6 +9,12 @@ category: Class
 
 For our final proejct our class was tasked with creating a social distancing-friendly game engaging enough for college students that went with the theme <i> Amazing Race </i>. My team was assigned the country Norway and we decided to make a touch-free reaction game, called Ægir’s Reign, that challenged players to survive for as long as possible by combatting enemy fire coming from multiple “lanes” at a given time.
 
+<div class="row justify-content-sm-start">
+    <div class="col-sm mt-0 mt-md-0">
+        {% include figure.liquid path="assets/img/game_full.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 In the game, the player is trying to navigate through the caves of Norway on their ship while escaping a Viking armada in pursuit of them. The player must call upon Ægir, the Norse God of the Sea, to fend off the incoming troops with his powers of ocean manipulation to avoid being captured.
 
 <div class="row justify-content-sm-start">
