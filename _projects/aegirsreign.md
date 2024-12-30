@@ -12,7 +12,7 @@ For our final proejct our class was tasked with creating a social distancing-fri
 In the game, the player is trying to navigate through the caves of Norway on their ship while escaping a Viking armada in pursuit of them. The player must call upon Ægir, the Norse God of the Sea, to fend off the incoming troops with his powers of ocean manipulation to avoid being captured.
 
 <div class="row justify-content-sm-start">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm mt-0 mt-md-0">
         {% include figure.liquid path="assets/img/game_info.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
