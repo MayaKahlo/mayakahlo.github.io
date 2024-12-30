@@ -65,9 +65,12 @@ I really enjoyed watching Demon Slayer and decided to embroider one of my t-shir
 
 <hr class="dashed">
 
-Last but not least, my first embroidery project based on this [cross stitch design](https://www.reddit.com/r/CrossStitch/comments/jb25at/fo_i_stitched_this_princess_mononoke_piece_for_my/):
+Last but not least, my first embroidery project based on this [cross stitch design](https://www.reddit.com/r/CrossStitch/comments/jb25at/fo_i_stitched_this_princess_mononoke_piece_for_my/) from one of my favorite movies, [Princess Mononoke](https://www.imdb.com/title/tt0119698/):
 
 <div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/princemononokeposter.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/princess_m.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
