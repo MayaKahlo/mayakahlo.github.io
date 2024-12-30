@@ -52,9 +52,12 @@ After watching the show [Fleabag](https://www.imdb.com/title/tt5687612/) by Phoe
 
 <hr class="dashed">
 
-I really enjoyed watching Demon Slayer and decided to embroider one of my t-shirts with the chibi versions of the main characters:
+I really enjoyed watching Demon Slayer and decided to embroider one of my t-shirts with the chibi versions of the main characters based on artwork by [chooonlly](https://www.instagram.com/p/B0iwhiLnJWV/?epik=dj0yJnU9WnNvVHM3ZVZYcDhhckdHMXJWVU84S3FTTUlITlJRYnkmcD0wJm49aTUtaHU0WTBVdk43Q3RTM19jd2N1ZyZ0PUFBQUFBR2R6Q3NF):
 
 <div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/demonslayer.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/demon_slayer1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
