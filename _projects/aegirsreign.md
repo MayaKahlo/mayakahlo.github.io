@@ -20,3 +20,5 @@ In the game, the player is trying to navigate through the caves of Norway on the
 The player controls a servo that directs Ægir's powers to a specific lane in which the troops are coming from. Using a foot pedal, they send a powerful blast to obliterate the enemy ship; they must last as long as possible before any of the armada's ships can reach them. The player chooses between the different lanes by breaking infrared beams with their hands and “fire” down a lane to destroy an enemy using a foot pedal placed on the ground. Sound cues indicate when a new enemy has spawned, with a different jingle used for each lane. Our team’s goal was to create a fast-paced, competitive, and addicting game which at first glance looks easy but requires more focus and coordination than expected.
 
 Here is a video of our gameplay:
+
+<iframe src="https://drive.google.com/file/d/131iO4pFwcFpU__SsN_m5Fosk_Ep_IXSc/preview" width="640" height="480" allow="autoplay"></iframe>
