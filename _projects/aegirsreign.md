@@ -28,5 +28,5 @@ The player controls a servo that directs Ægir's powers to a specific lane in wh
 Here is a video of our gameplay:
 
 <div style="display: flex; justify-content: center;">
-   <iframe src="https://drive.google.com/file/d/1viM0tX9PhVtHoTmryiD1mxZNdzfk_fk5/preview" width="640" height="480" allow="autoplay"></iframe>
+   <iframe src="https://drive.google.com/file/d/1viM0tX9PhVtHoTmryiD1mxZNdzfk_fk5/preview" width="840" height="680" allow="autoplay"></iframe>
 </div>
