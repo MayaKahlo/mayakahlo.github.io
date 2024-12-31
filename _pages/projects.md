@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: Explore my projects to learn more about what I do!
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [Research, Class, Personal]
 horizontal: false
 ---
