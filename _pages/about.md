@@ -9,6 +9,8 @@ profile:
   image: DeLosSantos_Maya.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
+    <p>Brown University</p>
+    <p>Providence, RI</p>
     <p>Northeastern University</p>
     <p>Boston, MA</p>
 
@@ -18,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! My name is Maya De Los Santos and I am a senior pursuing Electrical and Computer Engineering in Northeastern University's Honors Program. Throughout my undergraduate studies I have remained dedicated to uplifting marginalized communities and empowering them to have agency over their personal data and promote their well-being.
+Hi! My name is Maya De Los Santos and I am a first-year PhD student in [Computer Science at Brown University](https://cs.brown.edu/), co-advised by [Dr. Diana Freed](https://dsi.brown.edu/people/diana-freed) and [Dr. Harini Suresh](https://harinisuresh.com/). I previously completed my Bachelor’s degree in Electrical and Computer Engineering from Northeastern University's Honors Program. Throughout my undergraduate studies I remained dedicated to uplifting marginalized communities and empowering them to have agency over their personal data and promote their well-being.
 
-My goal is to earn a Ph.D. in Computer Science, with a focus on Human-Computer Interaction and Design. I am particularly interested in exploring how meaningful design can combat digital resignation – the phenomenon where people care about their personal data but feel powerless in exercising control over it.
+Focusing on Human-Computer Interaction and Design, I look forward to continuing my research in graduate school. I am particularly interested in exploring how meaningful design can combat digital resignation – the phenomenon where people care about their personal data but feel powerless in exercising control over it.
 
 delossantos [dot] m [at] northeastern [dot] edu
 
