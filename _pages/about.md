@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Brown University</p>
     <p>Providence, RI</p>
-    <p>Northeastern University</p>
-    <p>Boston, MA</p>
+    <!-- <p>Northeastern University</p>
+    <p>Boston, MA</p> -->
 
 cv_pdf: MayaDLS_CV.pdf
 news: false # includes a list of news items
