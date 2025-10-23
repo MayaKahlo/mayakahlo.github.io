@@ -24,7 +24,8 @@ Hi! My name is Maya De Los Santos and I am a first-year PhD student in [Computer
 
 Focusing on Human-Computer Interaction and Design, I look forward to continuing my research in graduate school. I am particularly interested in exploring how meaningful design can combat digital resignation – the phenomenon where people care about their personal data but feel powerless in exercising control over it. I am grateful to be supported by the [NSF Graduate Research Fellowship Program (NSF GRFP)](https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program) and the [Mae Williamson Simmons Fellowship](https://www.brown.edu/news/2022-11-29/fellowships).
 
-delossantos [dot] m [at] northeastern [dot] edu
+<!--delossantos [dot] m [at] northeastern [dot] edu-->
+maya_de_los_santos@brown.edu
 
 <style>
 .myDiv {
