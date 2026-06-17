@@ -6,7 +6,7 @@ subtitle: <a href='https://www.linkedin.com/in/maya-kahlo/'>LinkedIn</a>. <a hre
 
 profile:
   align: center
-  image: park_headshot.png
+  image: park_fav.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Brown University</p>
