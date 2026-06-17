@@ -217,13 +217,19 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 35%;
 
     .address {
       p {
         display: block;
       }
     }
+  }
+}
+
+@media (min-width: 992px) {
+  .profile {
+    width: 40%; // bigger screens get a bigger boost
   }
 }
 
@@ -238,6 +244,23 @@ ul.task-list input[type="checkbox"] {
       color: var(--global-theme-color);
       text-decoration: none;
     }
+  }
+}
+
+.post article {
+  font-size: 1.05rem; // mobile baseline (slightly above default 1rem)
+  line-height: 1.7;
+}
+
+@media (min-width: 768px) {
+  .post article {
+    font-size: 1.15rem; // tablet and up
+  }
+}
+
+@media (min-width: 992px) {
+  .post article {
+    font-size: 1.2rem; // desktop and up
   }
 }
 
